@@ -102,7 +102,7 @@ function App() {
 
         {page === "cart" && (
           <div className="cart">
-            <h2>🧾 Cart</h2>
+            <h2> Cart</h2>
 
             {cart.length === 0 ? (
               <p>No items in cart</p>
