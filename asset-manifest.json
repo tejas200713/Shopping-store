@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tejas200713/Shopping-store/static/css/main.ab590620.css",
+    "main.js": "/tejas200713/Shopping-store/static/js/main.67f89e1f.js",
+    "static/media/background.jpg": "/tejas200713/Shopping-store/static/media/background.0d6c387198112f922782.jpg",
+    "index.html": "/tejas200713/Shopping-store/index.html",
+    "main.ab590620.css.map": "/tejas200713/Shopping-store/static/css/main.ab590620.css.map",
+    "main.67f89e1f.js.map": "/tejas200713/Shopping-store/static/js/main.67f89e1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab590620.css",
+    "static/js/main.67f89e1f.js"
+  ]
+}
