@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 
 const products = [
-  { id: 1, name: "Laptop", price: 55000, image: "/images/laptop.png" },
-  { id: 2, name: "Smartphone", price: 22000, image: "/images/phone.png" },
-  { id: 3, name: "Headphones", price: 2500, image: "/images/headphones.png" },
-  { id: 4, name: "Smart Watch", price: 6000, image: "/images/watch.png" }
+  { id: 1, name: "Laptop", price: 55000, image: process.env.PUBLIC_URL + "/images/laptop.png" },
+  { id: 2, name: "Smartphone", price: 22000, image: process.env.PUBLIC_URL +  "/images/phone.png" },
+  { id: 3, name: "Headphones", price: 2500, image: process.env.PUBLIC_URL +  "/images/headphones.png" },
+  { id: 4, name: "Smart Watch", price: 6000, image: process.env.PUBLIC_URL +  "/images/watch.png" }
 ];
 
 // 🔹 Navbar Component
